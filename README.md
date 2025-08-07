@@ -7,6 +7,11 @@ Before you begin, ensure you have the following installed:
 Install Visual studio code from official site https://code.visualstudio.com/download
 Install Node JS from from official site Node.js — Download Node.js®
 
+## Tech Stack
+Framework: Playwright
+Language: Typescript
+Reporting: Playwright report
+
 ## Set up Project
 Open file explorer and create one Project folder and open cmd initialise Package JSON file by npm init.
 Install all npm dev dependencies in Package.json file
